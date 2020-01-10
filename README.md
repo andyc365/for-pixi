@@ -1,4 +1,4 @@
-# floor-manager-test
+# for-pixi
 
 ## Project setup
 ```
